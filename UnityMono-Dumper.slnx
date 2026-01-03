@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="UnityMono-Dumper/UnityMono-Dumper.vcxproj" Id="490c251e-b541-4b25-be7f-feee6ffc75da" />
+</Solution>
