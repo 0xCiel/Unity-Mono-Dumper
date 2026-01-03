@@ -1,6 +1,7 @@
 A unity dumper for mono
 
-
+Credits:
+https://www.unknowncheats.me/forum/unity/603179-hacking-mono-games.html
 
 output examples:
 ```cs
